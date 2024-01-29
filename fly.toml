@@ -1,4 +1,4 @@
-app = "fly-log-local-example"
+app = "pplus-logs"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
